@@ -1,0 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.section-background{
+    background-color: #264653;
+}
+img{
+    width: 100%;
+    height: auto;
+}
